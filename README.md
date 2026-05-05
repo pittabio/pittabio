@@ -133,7 +133,7 @@ Experimental project exploring Unreal Engine's State Trees.
 Focused on learning and research project created to explore and master the State Tree system through practical examples.
 A technical showcase for professional evaluation and learning purposes.
 \
-[🔗GitHub](https://github.com/pittabio/StateTree) || [🔗GitLab](https://gitlab.com/pittabio/StateTree)
+[🔗GitHub](https://github.com/pittabio/StateTrees) || [🔗GitLab](https://gitlab.com/pittabio/StateTrees)
 
 <!-- Gas Abilities -->
 
