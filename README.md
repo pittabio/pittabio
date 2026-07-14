@@ -149,7 +149,7 @@ A technical showcase for professional evaluation and learning purposes.
 
 <!-- Ruins' Rhapsody -->
 
-### 🗡️ [Ruins' Rhapsody](https://pittacciofabio.wixsite.com/site/ruins-rhapsody-demo)
+### 🗡️ [Ruins' Rhapsody](https://pittabio.github.io/projects/ruins-rhapsody.html)
 Action-adventure game that follows a fearless archaeologist on a quest to uncover a mythical rune. 
 Blending exploration, puzzle-solving, and intense combat, the game invites players into a richly detailed world of ancient ruins and hidden secrets. 
 Inspired by legendary sagas like Tomb Raider and Uncharted, it challenges players to master movement, manage resources, and unravel the mysteries of a forgotten civilization.
@@ -158,7 +158,7 @@ Inspired by legendary sagas like Tomb Raider and Uncharted, it challenges player
 
 <!-- Goblin Jr. Adventure -->
 
-### 🐸 [Goblin Jr. Adventure](https://pittacciofabio.wixsite.com/site/goblin-jr-adventure)
+### 🐸 [Goblin Jr. Adventure](https://pittabio.github.io/projects/goblin-jr.html)
 A charming platformer where players guide a brave little goblin through stylized cube worlds filled with coins, traps, and secrets.
 Designed for casual players and kids, the game offers simple yet engaging challenges in vibrant, colorful environments.
 \
@@ -166,30 +166,30 @@ Designed for casual players and kids, the game offers simple yet engaging challe
 
 <!-- Zombie Siege: Chronicles -->
 
-### 🧟 [Zombie Siege: Chronicles](https://pittacciofabio.wixsite.com/site/zombie-siege)
+### 🧟 [Zombie Siege: Chronicles](https://pittabio.github.io/projects/zombie-siege.html)
 Zombie Siege Chronicles is a tower defense game developed in UE5 for the **2024 Rookie Awards**. 
 Defend your base from hordes of zombies using turrets, barriers, and special structures.
 Gameplay features a top-down view, dynamic events, and enemies with unique abilities.
 \
 The download is hosted on a contributor's [🔗itch.io](https://fabriziop.itch.io/zombie-siege-chronicles) account
 
-<!-- Flying Bird -->
-
-### 🐦 [Flying Bird](https://pittacciofabio.wixsite.com/site/flying-bird)
-3D remake of the iconic Flappy Bird, developed in Unreal Engine 5.4 for both Windows and Android. 
-It preserves the original's addictive gameplay with simple one-touch controls, now set in a fully 3D environment. 
-Navigate through endless obstacles to achieve the highest score. The game is complete and optimized for Android.
-\
-[🔗GitHub](https://github.com/pittabio/Flying_Bird) || [🔗itch.io](https://pittabio.itch.io/flying-bird)
-
 <!-- WizardScape: The Magic Chase -->
 
-### 🧙 [WizardScape: The Magic Chase](https://pittacciofabio.wixsite.com/site/wizardscape)
+### 🧙 [WizardScape: The Magic Chase](https://pittabio.github.io/projects/wizardscape.html)
 Lightweight survival demo for Android, built with Unreal Engine. 
 Control a young wizard who auto-casts spells while dodging waves of enemy mages and collecting magical diamonds.
 Designed as a technical prototype, the game showcases core mechanics like progressive difficulty, upgrade systems, and mobile-optimized controls.
 \
 [🔗GitHub](https://github.com/pittabio/VampireSurvivors) || [🔗itch.io](https://pittabio.itch.io/wizardscape)
+
+<!-- Flying Bird -->
+
+### 🐦 [Flying Bird](https://pittabio.github.io/projects/flying-bird.html)
+3D remake of the iconic Flappy Bird, developed in Unreal Engine 5.4 for both Windows and Android. 
+It preserves the original's addictive gameplay with simple one-touch controls, now set in a fully 3D environment. 
+Navigate through endless obstacles to achieve the highest score. The game is complete and optimized for Android.
+\
+[🔗GitHub](https://github.com/pittabio/Flying_Bird) || [🔗itch.io](https://pittabio.itch.io/flying-bird)
 
 <!-- Credits and more -->
 
