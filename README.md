@@ -104,6 +104,11 @@
 ### Support
 
 <div align="left">
+
+  <!-- GitHub Support -->
+  <a href="https://github.com/sponsors/pittabio" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="30" alt="github logo"  />
+ </a>
   
   <!-- Ko-Fi --> 
   <a href="https://ko-fi.com/pittabio" target="_blank">
