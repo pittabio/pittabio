@@ -92,11 +92,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
   
-  <!-- Mastodon -->
-  <a href="https://mastodon.social/@pittabio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mastodon logo"  />
-  </a>
-  
   <!-- Discord -->
   <a href="https://discord.com/users/1169951922522968104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
