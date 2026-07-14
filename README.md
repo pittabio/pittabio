@@ -8,7 +8,7 @@
 - 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at **Rainbow Academy** in *Roma*
 - 🔧 **GitKraken** / Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
 - 🚀 Creating games from concept to publication
-- 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
+- 📫 Explore my published projects in my [PORTFOLIO](https://pittabio.github.io/)
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
 - 🌍 Available for remote work and international relocations
 
