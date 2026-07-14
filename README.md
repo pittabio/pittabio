@@ -25,7 +25,7 @@
 
 <!-- Dev icons -->
 
-### What do I use
+### 🔍 What do I use
 
 <div align="left">
   
@@ -63,45 +63,18 @@
 
 <!-- Social and links -->
 
-### Social
+### 🔗 Connect with me
 
-<div align="left">
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  
-  <!-- itch.io -->
-  <a href="https://pittabio.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/pittabio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@pittabio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
- 
-  <!-- Twitch -->
-  <a href="https://www.twitch.tv/pittabio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  </a>
-  
-  <!-- Discord -->
-  <a href="https://discord.com/users/1169951922522968104" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  
-</div>
+| 💼 Professional Profiles | 🌍 Community & Social |
+| :--- | :--- |
+| <a href="https://pittabio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=google-chrome&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.instagram.com/pittabio/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"></a>
+| <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" height="28"></a> | <a href="https://discord.com/users/1169951922522968104" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28"></a>
+| <a href="https://gitlab.com/pittabio" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.youtube.com/@pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"></a>
+| <a href="https://pittabio.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.twitch.tv/pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28"></a>
 
 <!-- Support -->
 
-### Support
+### 💖 Support
 
 <div align="left">
 
