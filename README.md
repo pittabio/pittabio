@@ -164,6 +164,14 @@ Navigate through endless obstacles to achieve the highest score. The game is com
 \
 [🔗GitHub](https://github.com/pittabio/Flying_Bird) || [🔗itch.io](https://pittabio.itch.io/flying-bird)
 
+<!-- Dev Archive -->
+
+## 📁 Dev Archive
+*Projects from my growth process and collaborations that never shipped or are currently on hold.*
+
+- **[Project Pyramid](https://pittabio.github.io/projects/archive/pyramid.html):** Action-adventure set in ancient Egypt. I developed the full **enemy AI system**, including stealth perception, Behavior Trees, and coordination logic. (Status: *On Hold*)
+- **[Echoes of the Witch Wood](https://pittabio.github.io/projects/archive/echoes.html):** Internal action-platformer prototype developed to simulate an indie team environment. I focused on shared ability interfaces and environmental mechanics. (Status: *Cancelled*)
+
 <!-- Credits and more -->
 
 ## 🎨 Credits
