@@ -72,29 +72,6 @@
 | <a href="https://gitlab.com/pittabio" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.youtube.com/@pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"></a>
 | <a href="https://pittabio.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.twitch.tv/pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28"></a>
 
-<!-- Support -->
-
-### 💖 Support
-
-<div align="left">
-
-  <!-- GitHub Support -->
-  <a href="https://github.com/sponsors/pittabio" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="30" alt="github logo"  />
- </a>
-  
-  <!-- Ko-Fi --> 
-  <a href="https://ko-fi.com/pittabio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
-  </a>
-
-  <!-- PayPal -->
-  <a href="https://paypal.me/FabioPittaccio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
-  </a>
-  
-</div>
-
 <!-- Projects -->
 
 ## 🔬 Technical & Research Projects
@@ -172,7 +149,32 @@ Navigate through endless obstacles to achieve the highest score. The game is com
 - **[Project Pyramid](https://pittabio.github.io/projects/archive/pyramid.html):** Action-adventure set in ancient Egypt. I developed the full **enemy AI system**, including stealth perception, Behavior Trees, and coordination logic. (Status: *On Hold*)
 - **[Echoes of the Witch Wood](https://pittabio.github.io/projects/archive/echoes.html):** Internal action-platformer prototype developed to simulate an indie team environment. I focused on shared ability interfaces and environmental mechanics. (Status: *Cancelled*)
 
+<!-- Support -->
+
+## ☕ Support my work
+If you appreciate my projects and want to help me continue developing independent tools and games 💖
+
+<div align="left">
+
+  <!-- GitHub Support -->
+  <a href="https://github.com/sponsors/pittabio" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="30" alt="github logo"  />
+ </a>
+  
+  <!-- Ko-Fi --> 
+  <a href="https://ko-fi.com/pittabio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+  </a>
+
+  <!-- PayPal -->
+  <a href="https://paypal.me/FabioPittaccio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
+  </a>
+  
+</div>
+
 <!-- Credits and more -->
 
 ## 🎨 Credits
 - **Profile Picture Artist:** [rihnlin](https://www.instagram.com/rihnlin)
+- **Portfolio Website:** Built with love and hosted on GitHub Pages
