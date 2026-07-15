@@ -65,12 +65,12 @@
 
 ### 🔗 Connect with me
 
-| 💼 Professional Profiles | 🌍 Community & Social |
-| :--- | :--- |
-| <a href="https://pittabio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=google-chrome&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.instagram.com/pittabio/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"></a>
-| <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" height="28"></a> | <a href="https://discord.com/users/1169951922522968104" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28"></a>
-| <a href="https://gitlab.com/pittabio" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.youtube.com/@pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"></a>
-| <a href="https://pittabio.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge" height="28"></a> | <a href="https://www.twitch.tv/pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28"></a>
+| 💼 Professional Profiles 																																																| 🌍 Community & Social |
+| :--- 																																																					| :--- |
+| <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" height="28"></a>	| <a href="https://discord.com/users/1169951922522968104" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28"></a>	|
+| <a href="https://pittabio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=google-chrome&logoColor=white&style=for-the-badge" height="28"></a> 						| <a href="https://www.instagram.com/pittabio/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"></a>		|
+| <a href="https://gitlab.com/pittabio" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge" height="28"></a> 									| <a href="https://www.youtube.com/@pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"></a>				|
+| <a href="https://pittabio.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge" height="28"></a> 									| <a href="https://www.twitch.tv/pittabio" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28"></a>					|
 
 <!-- Projects -->
 
