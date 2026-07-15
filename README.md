@@ -1,20 +1,20 @@
 <!-- Title -->
 
-# Welcome to my Git web platform! 🎮
+# Hi there, I'm Fabio Pittaccio 👋
 
 <!-- Description -->
 
-- 🫡 I'm **Fabio Pittaccio**, known as *pittabio*, from *Roma (Italy)*
-- 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at **Rainbow Academy** in *Roma*
-- 🔧 **GitKraken** / Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
-- 🚀 Creating games from concept to publication
-- 📫 Explore my published projects in my [PORTFOLIO](https://pittabio.github.io/)
-- ❤️ Tomb Raider enthusiast - it's what got me into game development
-- 🌍 Available for remote work and international relocations
+- 🕹️ I am an **Unreal Engine C++ Developer** with a Master in C++ Programming from **Rainbow Academy** (Rome).
+- 📍 I am based in **Rome, Italy**, and you can find me everywhere online as **@pittabio**.
+- 🔧 I am a **Git Certified Specialist** through GitKraken Learn [[certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)].
+- 🚀 I create games from initial concept to final publication.
+- 📫 Explore my full projects and technical deep-dives at [pittabio.github.io](https://pittabio.github.io/).
+- ❤️ I am a **Tomb Raider enthusiast**—the saga that sparked my passion for game development.
+- 🌍 I am available for **remote work** and international relocations.
 
 <!-- Most used languages and stats -->
 
-### Stats
+### 📊 Stats
 
 <div align="left">
   <img src="https://github-readme-stats-fork-cyan.vercel.app/api?username=pittabio&hide=javascript,shell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
